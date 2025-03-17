@@ -61,3 +61,7 @@ git push origin main
 
 ## 안녕하세요
 - README를 수정합니다.
+
+
+## 좋아하는 음식
+- 삼겹살
