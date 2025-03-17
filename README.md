@@ -58,3 +58,6 @@ git push origin main
 
 ## 스타일 구성
 - style.md 파일 추가
+
+## 안녕하세요
+- README를 수정합니다.
